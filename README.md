@@ -16,7 +16,7 @@ Exercicio utilizando Bulma
 
 <h3>Modelo de curriculo utilizando Bulma</h3>
 
-<p> Consiste em um modelo de página onde tem a possibilidade de contato..</p>
+<p> Consiste em um modelo de página onde há possibilidade de contato.</p>
 <h2>Ferramentas Utilizadas</h2>
 <ul>
   <li>HTML</li>
