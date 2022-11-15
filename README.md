@@ -5,7 +5,7 @@ Exercicio utilizando Bulma
 
 <div align="center">
 
-  <a href="https://zezinhojun.github.io/Exercicio-bulma/"><img src=""></a>
+  <a href=""><img src="Screen-Recording-_15-11-2022-17-36-09_.gif"></a>
 </div>
 
 ---
